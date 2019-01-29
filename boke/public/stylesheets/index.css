@@ -1,0 +1,20 @@
+a{
+	text-decoration: none;
+	color: black;
+}
+header .left{
+	width: 600px;
+	float: left;
+}
+header .right{
+	width: 300px;
+	float: right;
+}
+header .nav{
+	border: 0;
+}
+header{
+	height: 42px;
+	border-bottom: 1px solid #CECECE;
+	border-top: 1px solid #CECECE;
+}
