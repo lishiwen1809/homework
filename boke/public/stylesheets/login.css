@@ -1,0 +1,40 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+a{
+	text-decoration: none;
+}
+.biaodan{
+	width: 500px;
+	height: 300px;
+	padding-top: 50px;
+	border: 1px solid #CCCCCC;
+	margin: 80px auto;
+}
+.biaodan p{
+	width: 350px;
+	height: 30px;
+	margin: 20px 80px;
+}
+.biaodan p input{
+	width: 300px;
+	height: 30px;
+	margin-left: 5px;
+}
+.biaodan p #btn{
+	width: 330px;
+}
+.biaodan .forget{
+	width: 300px;
+	height: 30px;
+	margin: 10px 100px;
+}
+.biaodan .forget a{
+	font-size: 12px;
+	display: block;
+	float: left;	
+}
+.biaodan .forget .ts{
+	float: right;
+}

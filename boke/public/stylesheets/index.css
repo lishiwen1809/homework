@@ -7,7 +7,7 @@ header .left{
 	float: left;
 }
 header .right{
-	width: 300px;
+	width: 335px;
 	float: right;
 }
 header .nav{
@@ -18,3 +18,5 @@ header{
 	border-bottom: 1px solid #CECECE;
 	border-top: 1px solid #CECECE;
 }
+
+
